@@ -24,7 +24,7 @@
                 {
                     Console.Clear();
                     WriteLine("########## Escolha opção ########## ", log);
-                    WriteLine("1 - Buscar arquivos corropidos", log);
+                    WriteLine("1 - Buscar arquivos corrompidos", log);
                     WriteLine("2 - Buscar arquivo por tipo", log);
                     WriteLine("3 - Buscar arquivo por nome", log);
                     WriteLine("4 - Buscar arquivos mesmo tamanho", log);
